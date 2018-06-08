@@ -10,7 +10,7 @@ This repository is my static page on GitHub.
 **Below is the pictures of Ronot Laws:**
 
 Law I: A robot may not injure a human being or, through inaction, allow a human being to come to harm.
-![Robot Law I](Pictures/Robot Law I.png "Law I")
+![Robot Law I](https://github.com/karolin4949/karolin4949.github.io/blob/master/Pictures/Robot%20Law%20I.png "Law I")
 
 Law II: A Robot must obey orders given it by human being except where such orders would conflict with the first law.
 ![Robot Law II](Pictures/Robot Law II.png "Law II")
