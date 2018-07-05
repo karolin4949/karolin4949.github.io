@@ -7,7 +7,7 @@ This repository is my static page on GitHub.
 |-----|-----|-----|
 |小雞|小狗|小鴨|
 
-**Below is the pictures of Ronot Laws:**
+**Below is the pictures of Robot Laws:**
 
 Law I: A robot may not injure a human being or, through inaction, allow a human being to come to harm.
 ![Robot Law I](https://raw.githubusercontent.com/karolin4949/karolin4949.github.io/master/Pictures/Robot%20Law%20I.png "Law I")
