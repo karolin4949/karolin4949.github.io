@@ -1,15 +1,14 @@
----
 <img src="Pictures/IMG_2205.JPG" height="20%" width="20%" div align=right>  
 
 **個人資料簡介**   
 中文姓名：林侊懋   
 英文姓名：Karo Lin   
 出生年份：西元1969年  
-國籍：中華民國,台灣🇹🇼  
+國籍：台灣🇹🇼  
 最高學歷：國立成功大學 工業管理學士  
 微信帳號：MasterKaro  
 電子信箱：karolin4949@icloud.com  
-
+LinkedIn:[Light Lin](https://www.linkedin.com/in/lightlin168/)  
   
 **能力與專長**  
 
@@ -25,10 +24,10 @@
 
 **任職經歷**
 
-1. 西元1985年 [青剛金屬建材](http://www.ckm.com.tw/) IE工程師  
+1. 西元1996年 [青剛金屬建材](http://www.ckm.com.tw/) IE工程師  
 負責現場設備安置規劃，工時統計分析，ISO9000導入。  
 
-2. 西元1986年 [華東先進電子](https://www.walton.com.tw/) 生產主任  
+2. 西元1997年 [華東先進電子](https://www.walton.com.tw/) 生產主任  
 監督以及培訓生產線員工執行產品測試蓋印包裝出貨流程，
 確認產品的測試結果以及相關品質，生產排程確認，生產環境監督。
 
@@ -69,3 +68,120 @@
 本人個性屬於喜好科學，新知，創新甚至於部分哲學方面，對於不理解的知識會存在很強的探索興趣，甚至不眠不休的研究學習。  
 對於科技領域一直是最感興趣的部分，從Apple II的BASIC語言，IBM PC的組合語言，C語言一直到最近的Python語言都是不斷學習的項目，意識到未來人類除了要會與人類溝通的能力以外，還要懂得如何跟機器溝通，在不久的將來會是機器掌管人類的時代。
 就業後從半導體產業開始，然後進入手機通訊，機械加工，基本上將產業的上下游都走了一遍，這件事其實對自我的能力有很大的助益，明白產品在什麼情況下會對下游造成什麼樣的影響，甚至發生了異常主要屬於哪一個製程為主要因素都可以容易的分析出來，這是一輩子在同一個生產線無法獲得的經驗。
+   
+---
+
+<img src="Pictures/IMG_2205.JPG" height="20%" width="20%" div align=right>  
+
+**Personal Information**  
+Name: Karo Lin  
+Date of Birth: Feb1969  
+Place of Birth: Taiwan🇹🇼  
+Mobile :+86 13534026350  
+E-mail: karolin4949@icloud.com  
+WeChat: MasterKaro  
+LinkedIn：[Light Lin](https://www.linkedin.com/in/lightlin168/)  
+
+**Education Background**  
+Bachelor of Industrial Management Science at NCKU.
+
+**Skills & Self-assessment**  
+
+* Well written and oral of English in communicating with others.  
+* Computer Skill: be familiar with most of language (8086 Assembly, Basic,C, Pascal and Python) include DataBase System and Linux OS.
+* Acquired SPC application certification, ISO 9000/TS 16949 internal auditor qualification.
+* Good emotion quality and high desired to solve problem.   
+* To learn the relational knowledge that to improve my job capability. I hope I will be the expert in my job.  
+* This moment is the most important moment for me to follow my most exciting and to do the work to change the world with new technologies as IoT, BlackChain and AI.
+* I will like to find a partner or a team with the same ideas and have passion to change the world.
+
+**Work Experiences**  
+
+**1. 1996 IE Engineer for [CKM](http://www.ckm.com.tw/)  Metal Construction Company.**
+*Responsibilities include:*
+
+* Introduced ISO9000 quality system.
+* Facility Layout designed.
+* Operation time research.
+
+**2. 1997 Production supervisor on [Wasin](https://www.walton.com.tw/) Electronic Advance Company.**  
+*Responsibilities include:*
+
+* Set up products priority of testing line. 
+* Managed and training operator for 12 hrs rotation shift. 
+* Follow up correction action. 
+* Alert and feedback for any production abnormal. 
+
+
+**3. 2000 Quality engineer for [Vishay Siliconix](http://www.vishay.com/company/brands/siliconix/).**  
+*Responsibilities include:*
+
+* Been supervisor of IPQC team, leaded inspectors to check facility environment, Wafer testing, die separation, die bond, wire bond, packing, plating, lead forming/cutting and IC testing process.
+* Did Wafer incoming quality control. 
+* Been SPC coordinator for all processes. 
+* Handled 8D system, from Issue 8D, check action then to follow up it.
+* Handled FMEA system and update it when doing engineering change. 
+* Handled Measurement management systems. 
+
+**4. 2004 As a senior quality engineer for [Motorola](https://www.motorola.com/) Mobile Device Team.**
+*Responsibilities includes :*
+
+* Verified ODM/EMS facility environment, such as temperature, humidity, dust control, EOS/ESD system, products safety and security.
+* Abnormal issues alert, feedback and held meeting for analysis and publish problem, review 8D.
+* Check and review DFM  For before new product release for MP. 
+* Check and review DFMEA and PFMEA to make all processes are safety. 
+* Check and review all SOP are correct or not, includes warehouse control, SMT, Testing, Assembly, IQC, IPQC, FQC, OQC, and Packing. 
+* Check and review QC plan, to make sure all control points and measurements are reasonable. 
+* Monitor ECR, FCR, PCR and Mass situation. 
+* Routing roving check key processes, review quality and production report. 
+* To do customer buy-off before shipping and sign-off ship authority notice. 
+* Setup and review reliability testing and review result. 
+
+
+**5. 2010 Quality manger for SPIL semiconductor.**  
+*Responsibilities include:*  
+
+* Leaded quality team to reach company’s quality goal.
+* Arranged Quality system training schedule for every body, include online and off-line lessons.
+* Evaluated human resource for quality team.
+* Handled abnormal issues of internal and customer feedback.
+* Forecasted annual budget for quality team.
+
+
+**6. 2013 Quality manager for [Catcher](http://www.catcher.com.tw/) Technology Company.**  
+*Responsibilities include:*
+
+* Leaded Quality Engineering department for well control production process. 
+* Responsibility of new product introduce  for HP and Apple companies.
+* Handled internal abnormal and customer’s complaint issues.
+* Established measurement center for Apple iPhone housing.
+* Forecasted measurement and reliability equipments for iPhone product.
+* Routing meeting with customer to discussed NPI progress. 
+
+
+**7. 2015 Quality manager for [ASE](http://www.aseglobal.com/) Company.**  
+*Responsibilities include:*
+
+* Monitored NPI process and been well control pilot run situation for new product, collected and analyzed data to improve NPI progress.
+* Deal with the abnormal case, leaded team members to find out the root cause of defect and come out correct action, after that we also to verify the effective for those actions.
+* Handled customer’s audit, leading customers to check our shop floor and follow up findings, reply correct actions and provide evidences to close those findings.
+
+
+**8. 2016.8 Quality director for [Ablesz](http://www.ablesz.com/) semiconductor Company.**
+*Responsibilities include:*
+
+* Managed quality system.
+* Trained all employees with quality concept and have quality mindset.
+* Set up quality control methodology and follow JEDEC requirements.
+* Introduce ESD 20.20 system, IS0 14000 and IATF16949.
+*  Handled abnormal situations and find out solutions for recover it.
+
+
+**9. 2018: Quality manager for [Everlight](http://www.everlight.com/) LED Ltd.**   
+*Responsibilities include:*  
+
+* Handling all quality system of the facility.
+* Did Supplier management, for well control supplier’s quality by audit supplier processes, training supplier with quality tools and encourage their quality mindset.
+* Leaded IQC, IPQC and OQC management, setup correct inspection method for incoming check, applied SPC system to stable process capability, introduced Lot by Lot produce system to avoid mix issue.
+* Handled customer complain, doing failure analysis, find out root cause and defined correct actions to prevent defects happen again.
+* Follow JEDEC definition to deal with product development and reliability test.  
