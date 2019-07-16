@@ -1,4 +1,4 @@
-#
+___
 <img src="Pictures/IMG_2205.JPG" height="20%" width="20%" div align=right>  
 **個人資料簡介**  
 中文姓名：林侊懋  
