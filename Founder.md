@@ -1,10 +1,11 @@
-___
+---
 <img src="Pictures/IMG_2205.JPG" height="20%" width="20%" div align=right>  
-**個人資料簡介**  
-中文姓名：林侊懋  
-英文姓名：Karo Lin  
+
+**個人資料簡介**   
+中文姓名：林侊懋   
+英文姓名：Karo Lin   
 出生年份：西元1969年  
-國籍：中華民國  
+國籍：中華民國,台灣🇹🇼  
 最高學歷：國立成功大學 工業管理學士  
 微信帳號：MasterKaro  
 電子信箱：karolin4949@icloud.com  
