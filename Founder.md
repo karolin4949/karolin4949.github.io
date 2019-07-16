@@ -185,3 +185,21 @@ Bachelor of Industrial Management Science at NCKU.
 * Leaded IQC, IPQC and OQC management, setup correct inspection method for incoming check, applied SPC system to stable process capability, introduced Lot by Lot produce system to avoid mix issue.
 * Handled customer complain, doing failure analysis, find out root cause and defined correct actions to prevent defects happen again.
 * Follow JEDEC definition to deal with product development and reliability test.  
+
+**Biography:**  
+My father and mother had been elementary school teachers. They were affecting me very much. Such as been like reading multi-type books, smart thinking and good behavior …etc.  
+
+At the moment, when I was junior high school student, I was like to play computer. When I was at Province Ping Tong High School, I went to participate computer program design race. I got the 3rd rank award of the south at Taiwan.  
+
+When studied at National Cheng Kong University, I used internet to contact many people all over the world; by the way I improved my English ability. 
+
+Been a student of Industrial Management Science Department, I understood the Industrial and Business management knowledge. It is very useful in my work .
+I have good emotion quality, and desire to solve problem. I was learn many knowledges by myself for work. I hope I will be the expert on the field.  
+
+My first job was been an IE engineer for building material company, then I transferred to IC assembly factory (WALSIN Electron Company), I was a production supervisor in WALSIN, my work was to control products and operator.  
+
+When I leaved WALSIN, I joined to another IC assembly/testing factory (Siliconix, Vishay, U.S.), this factory is locate at Kaohsiung, To be an  IPQC engineer, my job was to manage inspectors, review SPC, reply customer complain (8D), doing internal audit. I had get ISO/QS 9000 internal audit certification, and passed TS16949 certification, I have the TS16949 internal auditor qualification.  
+
+After that, I joined Motorola personal communication section; to be a DQE engineer for ODM management. My job is to control ODM quality, it include incoming inspection, production quality audit, outgoing quality control and end user complain review. From Motorola system, I had learn many quality control method and reliability system, especial for mobile phone production system.  
+
+For doing so many works, I’m lucky to learn many skill of different fields, such as Semiconductor, Electrical Assembly, Mechanical produce and serviced many great companies of the world. I think that I can doing better for work according to  those experiences from co-work with customers and learning by myself.
