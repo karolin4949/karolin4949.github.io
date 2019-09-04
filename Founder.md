@@ -4,7 +4,7 @@
 中文姓名：林侊懋   
 英文姓名：Karo Lin   
 出生年份：西元1969年  
-國籍：台灣🇹🇼  
+出生地：台灣  
 最高學歷：國立成功大學 工業管理學士  
 微信帳號：MasterKaro  
 電子信箱：karolin4949@icloud.com  
@@ -38,7 +38,7 @@ LinkedIn:[Light Lin](https://www.linkedin.com/in/lightlin168/)
 擔任公司在ODM工廠的駐廠工程師，主要的工作是確認新手機的導入過程，以及工廠是否具備生產新手機的資格，對於人機料法環會經過系統性的一一檢查確認是否具足並且符合量產。  
 曾經輔導過的公司有富士康，佳世達，華寶，王牌，正威，華宇，足跡遍佈中國以及印度。
 
-5. 西元2010年 [矽品精密工業](http://www.spil.com.tw/) 製造品質經歷  
+5. 西元2010年 [矽品精密工業](http://www.spil.com.tw/) 製造品質經理  
 主要工作為確保產品生產的品質符合規格，從晶圓的來料檢驗直到測試後出貨，並且負責客戶的新產品導入，主要服務的客戶有聯發科，展訊，海思，Marvell以及其他中國內地的公司。  
 針對產品的異常以及客訴處理也是親自帶領處理，藉此增加了很多製程改善的經驗，也能更加的服務客戶。
 
@@ -46,7 +46,7 @@ LinkedIn:[Light Lin](https://www.linkedin.com/in/lightlin168/)
 主要工作是負責品質工程的內容，制定品質計畫，監督生產的品質狀況，導入新產品，前期接觸的客戶有Dell，HP，Sony，熟悉客戶對於筆記型電腦外殼的導入過程以及產品特性的要求。  
 後期主要是負責蘋果公司的手機殼導入，藉由此機會了機蘋果公司對於產品的品質要求，新產品導入的過程，量測設備以及方法的制定。
 
-7. 西元2016年 [日月光半導體](http://www.aseglobal.com/) 製造品質經理
+7. 西元2016年 [日月光半導體](http://www.aseglobal.com/) 製造品質經理  
 於此的工作主要是降低現場的PPM，尤其是打線製程所產生的問題想辦法下降，同時管理晶圓以及其他材料的品質，確保不會在生產過程中發生異常。  
 擔任統計製程管控SPC主管，培訓相關人員統計製程的技術以及應用方法，定期檢視製程的穩定性，設法減少製程變異的因子。
 
@@ -76,7 +76,7 @@ LinkedIn:[Light Lin](https://www.linkedin.com/in/lightlin168/)
 **Personal Information**  
 Name: Karo Lin  
 Date of Birth: Feb1969  
-Place of Birth: Taiwan🇹🇼  
+Place of Birth: Taiwan   
 Mobile :+86 13534026350  
 E-mail: karolin4949@icloud.com  
 WeChat: MasterKaro  
@@ -104,7 +104,7 @@ Bachelor of Industrial Management Science at NCKU.
 * Facility Layout designed.
 * Operation time research.
 
-**2. 1997 Production supervisor on [Wasin](https://www.walton.com.tw/) Electronic Advance Company.**  
+**2. 1997 Production supervisor for [Wasin](https://www.walton.com.tw/) Electronic Advance Company.**  
 *Responsibilities include:*
 
 * Set up products priority of testing line. 
@@ -123,7 +123,7 @@ Bachelor of Industrial Management Science at NCKU.
 * Handled FMEA system and update it when doing engineering change. 
 * Handled Measurement management systems. 
 
-**4. 2004 As a senior quality engineer for [Motorola](https://www.motorola.com/) Mobile Device Team.**
+**4. 2004 Senior design quality engineer for [Motorola](https://www.motorola.com/) Mobile Device Team.**
 *Responsibilities includes :*
 
 * Verified ODM/EMS facility environment, such as temperature, humidity, dust control, EOS/ESD system, products safety and security.
